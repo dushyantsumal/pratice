@@ -1,0 +1,7 @@
+937  ls
+  938  git status
+  939  git remote -v
+  940  git push origin dev
+  941  git push origin new
+  942  history
+
